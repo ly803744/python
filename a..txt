@@ -1,0 +1,3 @@
+123456
+select * from fruit
+12324;
